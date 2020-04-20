@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLite Images</string>
+    <string name="show_images">Show images</string>
+</resources>
